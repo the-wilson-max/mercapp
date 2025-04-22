@@ -12,12 +12,14 @@ Cada línea de código fue escrita pensando en facilitar tareas cotidianas y mej
 
 🧱 Arquitectura Conceptual
 
-Tecnología	Rol en el proyecto
-Python + PySide6	Desarrollo del sistema y construcción de interfaces gráficas.
-CSV (productos.csv, almacenes.csv, proveedores.csv, etc.)	Base de datos editable y ligera para almacenar información.
-Qt Designer	Creación visual de interfaces personalizadas y funcionales.
-Módulos Python (productos.py, proveedor.py, registro.py, etc.)	División lógica del sistema por áreas.
-Git + GitHub	Control de versiones y gestión del proyecto en equipo.
+| Tecnología                               | Rol en el proyecto                                                         |
+|------------------------------------------|----------------------------------------------------------------------------|
+| Python + PySide6                         | Desarrollo del sistema y construcción de interfaces gráficas.              |
+| CSV (productos.csv, almacenes.csv, etc.) | Base de datos editable y ligera para almacenar información.                |
+| Qt Designer                              | Creación visual de interfaces personalizadas y funcionales.                |
+| Módulos Python (productos.py, etc.)      | División lógica del sistema por áreas.                                     |
+| Git + GitHub                             | Control de versiones y gestión del proyecto en equipo.                     |
+
 
 🎯 Filosofía del Proyecto
 MercApp se diseñó con un enfoque práctico:
