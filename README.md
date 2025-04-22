@@ -18,6 +18,7 @@ CSV (productos.csv, almacenes.csv, proveedores.csv, etc.)	Base de datos editable
 Qt Designer	Creación visual de interfaces personalizadas y funcionales.
 Módulos Python (productos.py, proveedor.py, registro.py, etc.)	División lógica del sistema por áreas.
 Git + GitHub	Control de versiones y gestión del proyecto en equipo.
+
 🎯 Filosofía del Proyecto
 MercApp se diseñó con un enfoque práctico:
 Digitalizar la gestión comercial sin complicar al usuario.
